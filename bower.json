@@ -1,0 +1,6 @@
+{
+  "name": "xml-parser",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0"
+  }
+}
